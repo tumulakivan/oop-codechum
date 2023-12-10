@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": "Beverage"
+    },
+    {
+      "path": "Father"
+    },
+    {
+      "path": "ILoveNumbers"
+    },
+    {
+      "path": "Chess"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "website-table",
+    "files.associations": {
+      "stdlib.h": "c",
+      "books.h": "c",
+      "stdio.h": "c",
+      "string.h": "c"
+    }
+  }
+}
